@@ -1,6 +1,16 @@
 # mengatur_layout_baris_dan_kolom_flutter
 
-A new Flutter project.
+Project kali ini Dasar bagaimana pengaturan layout baris dan kolom pada flutter
+![layout baris dan kolom](https://user-images.githubusercontent.com/60292040/73130546-932a8f00-402c-11ea-8e10-9b122c46d8f5.jpg)
+
+Untuk Tutorial Bagaimana cara membuat Hello World dapat di lihat disini : 
+https://github.com/ramzilhuda/hello_world
+
+Untuk Tutorial Bagaimana cara membuat Style Flutter dapat di lihat disini : 
+https://github.com/ramzilhuda/membuat_style_flutter
+
+Untuk Tutorial Bagaimana cara AppBar sederhana dapat di lihat disini : 
+https://github.com/ramzilhuda/appbar_flutter
 
 ## Getting Started
 
